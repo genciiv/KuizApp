@@ -103,7 +103,40 @@ let questions = [
     ),
     new Question(
         "Cila eshte Artificial intelligence?", ["React", "Laravel", "Python", "Sass"], "Python"
-    )
+    ),
+    new Question(
+        "Kush i bën standardet e Uebit?", ["WWW", "Mozilla", "Google", "Microsoft"], "WWW"
+    ),
+    new Question(
+        "Zgjidhni elementin e duhur HTML për titullin më të madh", ["h6", "head", "title", "h1"], "h1"
+    ),
+    new Question(
+        "Cili është elementi i duhur HTML për të futur një rrjesht te ri?", ["ib", "br", "td", "tr"], "br"
+    ),
+    new Question(
+        "Zgjidhni elementin e duhur HTML për të përcaktuar tekstin e rëndësishëm?", ["strong", "i", "b", "e"], "strong"
+    ),
+    new Question(
+        "Cili karakter përdoret për të treguar një etiketë fundore?", ["^", "<", "*", "/"], "/"
+    ),
+    new Question(
+        "Elementet inline zakonisht shfaqen pa nisur një linjë të re?", ["E vertet","E gabuar"], "E vertet"
+    ),
+    new Question(
+        "Cili eshte elementi per krijimin e listes se renditur?", ["li","ol","dl","ul"], "ol"
+    ),
+    new Question(
+        "Cili eshte elementi per krijimin e listes pa renditur?", ["li","ol","dl","ul"], "ul"
+    ),
+    new Question(
+        "Cila eshte e sakte per te krijuar checkbox", ["input type='textfield'","textinput type='text'","textfield","input type='text'"], "input type='text'"
+    ),
+    new Question(
+        "Cili është HTML-ja e duhur për të krijuar një zonë teksti??", ["input type='textarea'","input type='textbox'","textarea"], "input type='textarea'"
+    ),
+    
+   
+
 ];
 
 // INITIALIZE quiz
